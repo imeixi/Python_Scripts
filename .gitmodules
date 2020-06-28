@@ -1,0 +1,18 @@
+[submodule "Python_Get_Markdown_From_Email_Push_To_Blog"]
+	path = Python_Get_Markdown_From_Email_Push_To_Blog
+	url = https://github.com/imeixi/Python_Get_Markdown_From_Email_Push_To_Blog.git
+[submodule "python_cookbook_3rd"]
+	path = python_cookbook_3rd
+	url = https://github.com/imeixi/python_cookbook_3rd.git
+[submodule "python_fishc_test"]
+	path = python_fishc_test
+	url = https://github.com/imeixi/python_fishc_test.git
+[submodule "python-getting-started"]
+	path = python-getting-started
+	url = https://github.com/imeixi/c9-python-getting-started.git
+[submodule "python_crash_course"]
+	path = python_crash_course
+	url = https://github.com/imeixi/python_crash_course.git
+[submodule "jiekou-python3"]
+	path = jiekou-python3
+	url = https://github.com/liwanlei/jiekou-python3.git
