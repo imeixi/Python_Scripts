@@ -13,3 +13,15 @@
 [submodule "python_crash_course"]
 	path = python_crash_course
 	url = https://github.com/imeixi/python_crash_course.git
+[submodule "python_spider"]
+	path = python_spider
+	url = https://github.com/imeixi/python_spider.git
+[submodule "python_tk_adb"]
+	path = python_tk_adb
+	url = https://github.com/imeixi/python_tk_adb.git
+[submodule "python3-jiekou"]
+	path = python3-jiekou
+	url = https://github.com/liwanlei/jiekou-python3.git
+[submodule "python-scraping"]
+	path = python-scraping
+	url = https://github.com/imeixi/python-scraping.git
