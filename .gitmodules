@@ -16,6 +16,12 @@
 [submodule "python_spider"]
 	path = python_spider
 	url = https://github.com/imeixi/python_spider.git
-[submodule "python-GUI"]
-	path = python-GUI
-	url = https://github.com/imeixi/python-GUI.git
+[submodule "python_tk_adb"]
+	path = python_tk_adb
+	url = https://github.com/imeixi/python_tk_adb.git
+[submodule "python3-jiekou"]
+	path = python3-jiekou
+	url = https://github.com/liwanlei/jiekou-python3.git
+[submodule "python-scraping"]
+	path = python-scraping
+	url = https://github.com/imeixi/python-scraping.git
