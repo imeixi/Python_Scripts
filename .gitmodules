@@ -25,3 +25,6 @@
 [submodule "python-scraping"]
 	path = python-scraping
 	url = https://github.com/imeixi/python-scraping.git
+[submodule "python-GUI"]
+	path = python-GUI
+	url = https://github.com/imeixi/python-GUI.git
