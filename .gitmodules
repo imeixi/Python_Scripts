@@ -13,3 +13,9 @@
 [submodule "python_crash_course"]
 	path = python_crash_course
 	url = https://github.com/imeixi/python_crash_course.git
+[submodule "python_spider"]
+	path = python_spider
+	url = https://github.com/imeixi/python_spider.git
+[submodule "python-GUI"]
+	path = python-GUI
+	url = https://github.com/imeixi/python-GUI.git
