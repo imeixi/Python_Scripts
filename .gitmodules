@@ -28,3 +28,6 @@
 [submodule "python-GUI"]
 	path = python-GUI
 	url = https://github.com/imeixi/python-GUI.git
+[submodule "bilibili_rename_download_files"]
+	path = bilibili_rename_download_files
+	url = https://github.com/imeixi/bilibili_rename_download_files.git
