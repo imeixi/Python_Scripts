@@ -31,6 +31,3 @@
 [submodule "bilibili_rename_download_files"]
 	path = bilibili_rename_download_files
 	url = https://github.com/imeixi/bilibili_rename_download_files.git
-[submodule "Python_Word_Cloud"]
-	path = Python_Word_Cloud
-	url = https://github.com/imeixi/Python_Word_Cloud.git
